@@ -59,7 +59,7 @@ public class NotificationPanel {
         remoteView.setTextViewText(R.id.title, title);
         remoteView.setInt(R.id.title,"setTextColor", colorInt);
      //   remoteView.setTextViewText(R.id.author, author);
-        remoteView.setImageViewResource(R.id.image, R.drawable.icon);
+        remoteView.setImageViewResource(R.id.image, R.drawable.app_icon);
         //remoteView.setInt(R.id.image,"setColorFilter", colorInt);
 
 //        remoteView.setInt(R.id.next,"setColorFilter", colorInt);
